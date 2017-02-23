@@ -8,5 +8,8 @@
             "email": "1240048988@qq.com"
         }
     ],
+    "autoload": {
+        "psr-4": { "Rivsen\\Demo\\": "src" }
+    },
     "require": {}
 }

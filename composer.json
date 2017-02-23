@@ -1,0 +1,12 @@
+{
+    "name": "worldchina/hello-world",
+    "description": "this is a PHP code",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "worldchina",
+            "email": "1240048988@qq.com"
+        }
+    ],
+    "require": {}
+}
